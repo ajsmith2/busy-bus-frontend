@@ -233,3 +233,7 @@ h3 {
     padding-right: 10px;
     width: 5px;
 }
+
+.alert {
+  background-color: #EF2D56;
+}
