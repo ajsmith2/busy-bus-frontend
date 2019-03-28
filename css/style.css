@@ -51,25 +51,26 @@ nav {
 .fa-chevron-left {
   float: left;
   width: 10%;
-  color: #428099;
+  color: #235789;
   padding-right: 10px;
   padding-top: 5px;
 }
 
 .back {
   text-decoration: none;
-  color: #428099;
+  color: #235789;
   float: left;
   width: 20%;
   padding-right: 10px;
   padding-top: 5px;
   margin-left: -20px;
+  font-weight: 400;
 }
 
 h1 {
   float: left;
   width: 70%;
-  color: #428099;
+  color: #235789;
   vertical-align: middle;
   text-align: center;
   margin-left: -40px;
