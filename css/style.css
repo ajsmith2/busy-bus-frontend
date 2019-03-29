@@ -166,7 +166,7 @@ h3 {
 }
 
 .destination {
-  color: #9D9E9E;
+  color: #565554;
   float: left;
   height: 50px;
   margin-left: 20px;
@@ -192,27 +192,38 @@ h3 {
   float: right;
   padding-right: 10px;
   width: 5%;
+  color: #9d9e9e;
 }
 
 .bold {
   font-weight: 400;
   padding-top: 3px;
+  color: #565554;
 }
+
 .destination-border {
   border-bottom: 1px solid #dadada;
 }
 
 .reroute {
-  background-color: #28b899;
+  background-color: #EF2D56;
   color: #ffffff;
   font-weight: 400;
 }
 
 .alert {
-  background-color: #EF2D56;
+  background-color: gray;
   font-weight: 400;
 }
 
 .start-time {
   padding-top: 3px;
+}
+
+.alert-num {
+  color: #4F6D7A;
+}
+
+.alert-row {
+  color: #9d9e9e;
 }
